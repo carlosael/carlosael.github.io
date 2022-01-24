@@ -4,7 +4,7 @@ O objetivo desta aplicação é ciar uma página que simule um blog e seja dado 
 
 ## Confira essa aplicação online no link abaixo:
 
-- https://carlosael.github.io/contato.html
+- https://carlosael.github.io/
 
 ## 🛠 Tecnologias
 
